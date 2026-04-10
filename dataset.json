@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Kansas, US",
+  "export_job_id": "0d8b19b3-e70e-4ae0-8d9d-e5d37fa68f08",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 128815,
+  "location_name": "Kansas",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-kansas-us-sample-128815",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/128815/beamstation_128815_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_pct": 0.96,
+  "sample_records": 3,
+  "sample_sha256": "2de45aa15d7bc05500d5a8d554b39f61d910d03b94b2198ccb80892dad0ad2a4",
+  "sample_size_bytes": 27494,
+  "total_records": 311,
+  "updated_at": "2026-04-01T00:45:31.508348+00:00"
+}
