@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Kansas, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `128815` |
 | Location | Kansas |
 | Category | Restaurants |
-| Full dataset size | 311 records |
-| Free sample size | 3 records (0.96%) |
-| Last export | 2026-04-01T00:45:31.508348+00:00 |
+| Full dataset size | 332 records |
+| Free sample size | 33 records (9.94%) |
+| Last export | 2026-04-15T02:41:52.449257+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-kansas-us-sample-128815/releases/download/sample-latest/beamstation_128815_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
