@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0d8b19b3-e70e-4ae0-8d9d-e5d37fa68f08",
+  "export_job_id": "78749479-8bf4-467a-9881-f9c57a331d9e",
   "id_short": 128815,
-  "published_at": "2026-04-10T19:10:49Z",
+  "published_at": "2026-04-18T07:25:09Z",
   "repo_name": "the-hhi-monopoly-index-for-kansas-us-sample-128815",
   "sample_asset_name": "beamstation_128815_restaurants-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/128815/beamstation_128815_restaurants-us-ks_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "2de45aa15d7bc05500d5a8d554b39f61d910d03b94b2198ccb80892dad0ad2a4",
-  "sample_size_bytes": 27494,
-  "total_records": 311
+  "sample_records": 33,
+  "sample_sha256": "779d04609b12dfd3f2dcbe651b366c2dccc377cbfbc3c11e5344d927113873dc",
+  "sample_size_bytes": 135902,
+  "total_records": 332
 }
